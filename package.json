@@ -1,0 +1,21 @@
+{
+  "name": "dz17",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "openzeppelin-solidity": "3.4.2"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.6.1"
+  }
+}
